@@ -235,7 +235,7 @@ header {
 }
 
 .product-box:hover .product-title,
-.product-box:hover .price .pricedel{
+.product-box:hover .price:hover .pricedel:hover{
 	color: #141414;
 
 }
