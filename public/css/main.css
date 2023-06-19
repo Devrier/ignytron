@@ -235,10 +235,12 @@ header {
 }
 
 .product-box:hover .product-title,
-.product-box:hover .price {
+.product-box:hover .price .pricedel{
 	color: #141414;
 
 }
+.pricedel{
+	text-decoration: line-through;
 
 
 
